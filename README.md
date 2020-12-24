@@ -1,3 +1,9 @@
+This React App is Linkedin Clone, You can visit the link https://linkedin-clone-161d9.web.app/ 
+1) Register
+2) After registration is done you can sign-in anytime using only e-mail and password (Sign-in)
+
+Used technology: React, Redux, Material-Ui, Firebase.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
